@@ -1,0 +1,10 @@
+LoRA Configuration,Sample Count,Mean SSIM,Min Score,Max Score
+Rank-8-Alpha-4,5,0.2066,0.1928,0.2261
+Rank-8-Alpha-8,5,0.2127,0.1812,0.2474
+Rank-8-Alpha-16,5,0.2001,0.1847,0.2091
+Rank-16-Alpha-8,5,0.1985,0.1907,0.2111
+Rank-16-Alpha-16,5,0.235,0.1989,0.2697
+Rank-16-Alpha-32,5,0.2148,0.1972,0.2467
+Rank-32-Alpha-16,5,0.2338,0.2141,0.2487
+Rank-32-Alpha-32,5,0.1905,0.1789,0.2071
+Rank-32-Alpha-64,5,0.2008,0.1777,0.2134
