@@ -18,14 +18,14 @@ Ini adalah repositori khusus berisi seluruh sumber daya penelitian mengenai LoRA
 ## Parameter Eksperimen
 
 ### Rank
--8
-16
-13
+- 8
+- 16
+- 13
 
 ### Rasio Alpha
-alpha = r/2 (0.5)
-alpha = r (1.0)
-alpha = 2r (2.0)
+- alpha = r/2 (0.5)
+- alpha = r (1.0)
+- alpha = 2r (2.0)
 
 
  Lampiran 9 Model LoRA yang Sudah Dilatih: https://drive.google.com/drive/folders/1Bu2G7wcaZzC0EiLWcV6yvGIARoxFgBs2?usp=drive_link
